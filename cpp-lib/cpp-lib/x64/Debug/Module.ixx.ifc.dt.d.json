@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\usuario\\onedrive\\documentos\\projetos\\lib\\cpp_lib\\cpp-lib\\cpp-lib\\module.ixx",
+        "ProvidedModule": "Module",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

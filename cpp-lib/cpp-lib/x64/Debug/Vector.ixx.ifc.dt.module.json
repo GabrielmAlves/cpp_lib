@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\usuario\\onedrive\\documentos\\projetos\\lib\\cpp_lib\\cpp-lib\\cpp-lib\\vector.ixx",
+        "ProvidedModule": "Vector",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
