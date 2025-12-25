@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Vector.ixx.obj",
+            "outputs": [
+                "C:\\Users\\Usuario\\OneDrive\\Documentos\\Projetos\\lib\\cpp_lib\\cpp-lib\\cpp-lib\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\Usuario\\OneDrive\\Documentos\\Projetos\\lib\\cpp_lib\\cpp-lib\\cpp-lib\\x64\\Debug\\Vector.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Vector",
+                    "source-path": "c:\\users\\usuario\\onedrive\\documentos\\projetos\\lib\\cpp_lib\\cpp-lib\\cpp-lib\\vector.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
